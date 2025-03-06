@@ -1,0 +1,2 @@
+recursive-include madrasa_branding/patches *
+recursive-include madrasa_branding/templates *
