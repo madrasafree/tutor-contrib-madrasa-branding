@@ -1,3 +1,6 @@
+# -----------------------------------------------------------------------------
+# tutor plugin madrasa_branding
+# -----------------------------------------------------------------------------
 GOOGLE_ANALYTICS_ACCOUNT = 'GTM-NBXRS2T'
 GOOGLE_ANALYTICS_TRACKING_ID = 'GTM-NBXRS2T'
 # GOOGLE_ANALYTICS_LINKEDIN
